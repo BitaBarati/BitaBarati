@@ -49,6 +49,9 @@ My goal is to develop strong technical skills in network engineering and IT infr
 <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
 
 </div>
+
+---
+
 ## 📂 Featured Projects
 
 ### 🔷 Cisco-CCNA
