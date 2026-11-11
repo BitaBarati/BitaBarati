@@ -1,13 +1,6 @@
 
 <div align="center">
 
-<div align="center">
-
-<img src="./bita-profile-banner.gif" width="100%" alt="Bita Barati Animated Banner"/>
-
-</div>
-
----
 
 # Bita Barati
 
