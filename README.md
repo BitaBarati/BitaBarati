@@ -1,5 +1,10 @@
 
 <div align="center">
+<div align="center">
+  <img src="./a_polished_dark_futuristic_github_profile_banner.png" width="100%" alt="Bita Barati - Networking and IT Infrastructure"/>
+</div>
+
+<br/>
 
 # Bita Barati
 
