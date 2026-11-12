@@ -34,8 +34,10 @@ I use GitHub to document my learning journey, organize technical knowledge, and 
 
 My goal is to develop strong technical skills in network engineering and IT infrastructure through continuous learning and hands-on experience.
 
----
 
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
 
 
 
@@ -56,7 +58,9 @@ Tools & Virtualization
 <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
 </div>
 
----
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
 
 ## 📂 Featured Projects
 
@@ -75,7 +79,9 @@ Networking fundamentals, IP addressing, subnetting, and VLSM.
 
 [Explore Repository →](https://github.com/BitaBarati/Network-Plus)
 
----
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
 
 ## 🎯 Currently Learning
 
@@ -85,7 +91,9 @@ Networking fundamentals, IP addressing, subnetting, and VLSM.
 - Active Directory and Group Policy
 - Network infrastructure and virtualization
 
----
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
 
 ## 💡 My Approach
 
@@ -97,7 +105,9 @@ Networking fundamentals, IP addressing, subnetting, and VLSM.
 
 I believe in continuous learning, practical experience, and documenting every step of my technical journey.
 
----
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
 
 ## 🤝 Let's Connect
 
