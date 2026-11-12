@@ -3,106 +3,72 @@
 
 # Bita Barati
 
-### IT INFRASTRUCTURE • NETWORKING • CISCO
+### NETWORKING • CISCO • WINDOWS SERVER
 
 **IT Infrastructure & Network Enthusiast**
 
-Building practical skills in networking, system administration, and infrastructure technologies.
-
-<br/>
+Learning. Practicing. Building.
 
 <a href="https://www.linkedin.com/in/bita-barati-234a33443">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/BitaBarati">
-  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 👋 About Me
 
-I'm a university student focused on **Networking, Cisco Technologies, Windows Server, and IT Infrastructure.**
+I'm a university student passionate about **Networking, Cisco Technologies, Windows Server, and IT Infrastructure.**
 
-I use GitHub as my technical knowledge base to document concepts, organize practical labs, and build hands-on projects.
+I use GitHub to document my learning journey, organize technical knowledge, and share practical labs and projects.
 
-My current direction is **Network Engineering and System Administration**, with a focus on developing practical infrastructure skills.
+My goal is to develop strong technical skills in network engineering and IT infrastructure through continuous learning and hands-on experience.
 
 ---
 
-## 🛠️ Technical Skills & Technologies
+## ⚡ Technical Focus
 
-### Networking
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-087EA4?style=flat-square)
-![IPv4](https://img.shields.io/badge/IPv4-087EA4?style=flat-square)
-![Subnetting](https://img.shields.io/badge/Subnetting-087EA4?style=flat-square)
-![VLSM](https://img.shields.io/badge/VLSM-087EA4?style=flat-square)
+<div align="center">
 
-### Cisco
-![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![CCNA](https://img.shields.io/badge/CCNA-Learning-049FD9?style=flat-square)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-049FD9?style=flat-square)
+<img src="https://img.shields.io/badge/NETWORKING-TCP%2FIP%20%7C%20IPv4%20%7C%20VLSM-087EA4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CISCO-CCNA%20%7C%20Packet%20Tracer-049FD9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/WINDOWS%20SERVER-AD%20%7C%20DNS%20%7C%20GPO-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VIRTUALIZATION-Hyper--V-4267B2?style=for-the-badge"/>
 
-### Windows Server
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square)
-![DNS](https://img.shields.io/badge/DNS-0078D4?style=flat-square)
-![Group Policy](https://img.shields.io/badge/Group_Policy-0078D4?style=flat-square)
-
-### Virtualization & Systems
-![Hyper-V](https://img.shields.io/badge/Hyper--V-4267B2?style=flat-square)
-![Linux](https://img.shields.io/badge/Linux-Exploring-FCC624?style=flat-square&logo=linux&logoColor=black)
+</div>
 
 ---
 
 ## 📂 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Cisco-CCNA
-
-Cisco networking documentation, configuration notes, and practical Packet Tracer labs.
+### 🔷 Cisco-CCNA
+Cisco networking documentation and practical lab notes.
 
 [Explore Repository →](https://github.com/BitaBarati/Cisco-CCNA)
 
-</td>
-<td width="50%">
-
 ### 🖥️ Windows-Server
-
-Windows Server administration, Active Directory, DNS, Group Policy, and infrastructure labs.
+Windows Server administration, Active Directory, DNS, and Group Policy labs.
 
 [Explore Repository →](https://github.com/BitaBarati/Windows-Server)
 
-</td>
-</tr>
-<tr>
-<td colspan="2">
-
-### 🔷 Network-Plus
-
-Networking fundamentals, TCP/IP, IP addressing, subnetting, and VLSM.
+### 🌐 Network-Plus
+Networking fundamentals, IP addressing, subnetting, and VLSM.
 
 [Explore Repository →](https://github.com/BitaBarati/Network-Plus)
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🎯 Currently Learning
 
-- Cisco CCNA and network configuration
-- Cisco Packet Tracer practical labs
+- Cisco CCNA and networking technologies
+- Cisco Packet Tracer labs and configurations
 - Windows Server administration
 - Active Directory and Group Policy
-- Linux fundamentals
-- IT Infrastructure and System Administration
+- Network infrastructure and virtualization
 
 ---
 
@@ -112,9 +78,9 @@ Networking fundamentals, TCP/IP, IP addressing, subnetting, and VLSM.
 
 ### LEARN → PRACTICE → DOCUMENT → IMPROVE
 
-*Turning technical knowledge into practical experience.*
-
 </div>
+
+I believe in continuous learning, practical experience, and documenting every step of my technical journey.
 
 ---
 
@@ -123,15 +89,17 @@ Networking fundamentals, TCP/IP, IP addressing, subnetting, and VLSM.
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bita-barati-234a33443">
-  <img src="https://img.shields.io/badge/LinkedIn-Bita_Barati-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Bita%20Barati-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/BitaBarati">
-  <img src="https://img.shields.io/badge/GitHub-BitaBarati-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-BitaBarati-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<br/><br/>
+<br/>
 
-**Building knowledge. Strengthening skills. Growing through practice.**
+*Building knowledge. Strengthening skills. Growing through practice.*
 
 </div>
+
+اینو گفتی تو چت قبلی من گذاشتم
