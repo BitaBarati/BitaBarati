@@ -30,15 +30,27 @@ My goal is to develop strong technical skills in network engineering and IT infr
 
 ---
 
-## ⚡ Technical Focus
+
+
+
+
+⸻
+
+🛠️ Technical Skills
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/NETWORKING-TCP%2FIP%20%7C%20IPv4%20%7C%20VLSM-087EA4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CISCO-CCNA%20%7C%20Packet%20Tracer-049FD9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/WINDOWS%20SERVER-AD%20%7C%20DNS%20%7C%20GPO-0078D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VIRTUALIZATION-Hyper--V-4267B2?style=for-the-badge"/>
+Networking & Cisco
 
+<img src="https://skillicons.dev/icons?i=linux" height="45"/>
+
+Operating Systems & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=windows,linux" height="45"/>
+
+Tools & Virtualization
+
+<img src="https://skillicons.dev/icons?i=git,github" height="45"/>
 </div>
 
 ---
