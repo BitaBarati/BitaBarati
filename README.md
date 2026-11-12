@@ -33,9 +33,6 @@ My goal is to develop strong technical skills in network engineering and IT infr
 
 
 
-
-⸻
-
 🛠️ Technical Skills
 
 <div align="center">
