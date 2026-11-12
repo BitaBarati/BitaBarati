@@ -20,6 +20,12 @@ Learning. Practicing. Building.
 
 ---
 
+
+<div align="center">
+  <sub>━━━━━━━━━━━━ ✦ ━━━━━━━━━━━━</sub>
+</div>
+
+
 ## 👋 About Me
 
 I'm a university student passionate about **Networking, Cisco Technologies, Windows Server, and IT Infrastructure.**
