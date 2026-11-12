@@ -102,4 +102,3 @@ I believe in continuous learning, practical experience, and documenting every st
 
 </div>
 
-اینو گفتی تو چت قبلی من گذاشتم
